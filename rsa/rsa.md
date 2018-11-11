@@ -195,7 +195,7 @@ m^{t*Φ(n)+1}(mod\ n)= m+ru*n(mod)= m(mod\ n)
 $$
 
 $$
-m^{t*Φ(n)} = m^{t(p-1)(q-1)} = m^{tΦ(q)(p-1) }= 1^{t(p-1)} (mod\ q) = 1 (mod\ q)
+m^{t*Φ(n)+1}(mod\ n) = m^{t(p-1)(q-1)} = m^{tΦ(q)(p-1) }= 1^{t(p-1)} (mod\ q) = 1 (mod\ q)
 $$
 
 
