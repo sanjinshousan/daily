@@ -198,7 +198,7 @@ $$
 
 综上，不管m与n是否互质，解密公式均正确。
 $$
-m^{t*Φ(n) + 1} (mod\ n) =m*m^{t*Φ(n)} (mod\ n) = m (mod\ n)
+m^{t*Φ(n) + 1} (mod\ n) =m*m (mod\ n) = m (mod\ n)
 $$
 
 
@@ -208,7 +208,7 @@ $$
 ### 4.1 整数分解算法
 
 $$
-m^{t*Φ(n) + 1} (mod\ n) = m*m^{t*Φ(n)} (mod\ n) = m + run (mod\ n) = m (mod\ n)
+m^{t*Φ(n) + 1} (mod\ n) = mm^{t*Φ(n)} (mod\ n) = m + run (mod\ n) = m (mod\ n)
 $$
 
 
