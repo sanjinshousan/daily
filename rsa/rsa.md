@@ -208,7 +208,7 @@ $$
 ### 4.1 整数分解算法
 
 $$
-m^{t*Φ(n) + 1} (mod\ n) = m + run (mod\ n) = m (mod\ n)
+m^{t*Φ(n) + 1} (mod\ n) = m * m^{t*Φ(n)} (mod\ n)= m + run (mod\ n) = m (mod\ n)
 $$
 
 $$
@@ -224,7 +224,7 @@ m' = m * m^{t*Φ(n)} (mod\ n) = m * 1^t (mod\ n) = m (mod\ n)
 $$
 
 $$
-= m * m^{t*Φ(n)} (mod\ n) 
+= m * m^{t*Φ(n)} (mod\ n)
 $$
 
 
