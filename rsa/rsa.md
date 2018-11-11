@@ -190,10 +190,10 @@ $$
 m^{t*Φ(n)} = m+muq=m+rupq=m+run
 $$
 
-那么
 $$
 m^{t*Φ(n)+1}(mod\ n) = m*m^{t*Φ(n)}(mod\ n)=m+run(mod\ n)=m(mode\ n)
 $$
+
 综上，不管m与n是否互质，解密公式均正确。
 
 ***
