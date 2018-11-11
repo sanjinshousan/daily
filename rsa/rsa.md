@@ -191,8 +191,6 @@ m^{t*Φ(n)} = m+muq=m+rupq=m+run
 $$
 
 那么
-
-​	
 $$
 m^{t*Φ(n)+1}(mod\ n) = m*m^{t*Φ(n)}(mod\ n)=m+run(mod\ n)=m(mode\ n)
 $$
