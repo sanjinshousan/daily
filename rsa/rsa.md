@@ -187,7 +187,7 @@ m^{t*Φ(n)} = 1 + uq
 $$
 
 $$
-m*m^{t*Φ(n)} = m+ muq = m + rupq = m + run
+m^{t*Φ(n)} = m+muq=m+rupq=m+run
 $$
 
 综上，不管m与n是否互质，解密公式均正确。
