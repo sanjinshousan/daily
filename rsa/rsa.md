@@ -195,7 +195,7 @@ m^{t*Φ(n)+1}(mod\ n)= m+ru*n(mod)= m(mod\ n)
 $$
 
 $$
-m^{t*Φ(n)+1}(mod\ n) = m*m^{t*Φ(n)}(mod\ n) = m+run(mod\ n)= m(mod\ n)
+m^{t*Φ(n)+1}(mod\ n) =  m+run(mod\ n)= m(mod\ n)
 $$
 
 
